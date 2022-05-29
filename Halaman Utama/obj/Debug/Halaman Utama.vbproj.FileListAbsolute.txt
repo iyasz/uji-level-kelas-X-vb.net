@@ -1,0 +1,18 @@
+C:\Users\USER\Documents\SPP_XRPL_MuhammdILyasa\Halaman Utama\bin\Debug\Halaman Utama.exe.config
+C:\Users\USER\Documents\SPP_XRPL_MuhammdILyasa\Halaman Utama\bin\Debug\Halaman Utama.exe
+C:\Users\USER\Documents\SPP_XRPL_MuhammdILyasa\Halaman Utama\bin\Debug\Halaman Utama.pdb
+C:\Users\USER\Documents\SPP_XRPL_MuhammdILyasa\Halaman Utama\bin\Debug\Halaman Utama.xml
+C:\Users\USER\Documents\SPP_XRPL_MuhammdILyasa\Halaman Utama\obj\Debug\Halaman_Utama.Form1.resources
+C:\Users\USER\Documents\SPP_XRPL_MuhammdILyasa\Halaman Utama\obj\Debug\Halaman_Utama.Resources.resources
+C:\Users\USER\Documents\SPP_XRPL_MuhammdILyasa\Halaman Utama\obj\Debug\Halaman Utama.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\SPP_XRPL_MuhammdILyasa\Halaman Utama\obj\Debug\Halaman Utama.exe
+C:\Users\USER\Documents\SPP_XRPL_MuhammdILyasa\Halaman Utama\obj\Debug\Halaman Utama.xml
+C:\Users\USER\Documents\SPP_XRPL_MuhammdILyasa\Halaman Utama\obj\Debug\Halaman Utama.pdb
+C:\Users\USER\Documents\SPP_XRPL_MuhammdILyasa\Halaman Utama\obj\Debug\Halaman_Utama.pilih.resources
+C:\Users\USER\Documents\SPP_XRPL_MuhammdILyasa\Halaman Utama\obj\Debug\Halaman_Utama.admin.resources
+C:\Users\USER\Documents\SPP_XRPL_MuhammdILyasa\Halaman Utama\obj\Debug\Halaman_Utama.login.resources
+C:\Users\USER\Documents\SPP_XRPL_MuhammdILyasa\Halaman Utama\obj\Debug\Halaman_Utama.berhasil.resources
+C:\Users\USER\Documents\SPP_XRPL_MuhammdILyasa\Halaman Utama\obj\Debug\Halaman_Utama.multiplatform.resources
+C:\Users\USER\Documents\SPP_XRPL_MuhammdILyasa\Halaman Utama\obj\Debug\Halaman_Utama.dashboard.resources
+C:\Users\USER\Documents\SPP_XRPL_MuhammdILyasa\Halaman Utama\obj\Debug\Halaman_Utama.siswa.resources
+C:\Users\USER\Documents\SPP_XRPL_MuhammdILyasa\Halaman Utama\obj\Debug\Halaman_Utama.spp.resources
